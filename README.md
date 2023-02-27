@@ -8,7 +8,7 @@ This repository contains a Node.js web application built using [Express](https:/
 <img width="766" alt="image" src="https://user-images.githubusercontent.com/59838606/221687345-79e3f56a-fd1d-4236-8294-91934b14a9ea.png">
 
 
-### Deployment (Elastic Beanstalk): http://awscicdbeanstalkapp-env.eba-srnf3dyf.us-west-2.elasticbeanstalk.com/
+### Deployment (Elastic Beanstalk - depracated): http://awscicdbeanstalkapp-env.eba-srnf3dyf.us-west-2.elasticbeanstalk.com/
 
 ### Security
 
