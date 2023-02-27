@@ -4,5 +4,7 @@ const port = 8080;
 
 app.get('/', (req, res) => res.send("This is Smit Chawda's web application!"));
 
-app.listen(port);
-console.log(`Application started on http://localhost:${port}`);
+app.listen(port, ()=>{
+    console.log(`Application started on http://localhost:${port}`);
+});
+
